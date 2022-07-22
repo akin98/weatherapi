@@ -1,0 +1,8 @@
+C:\Users\90534\source\repos\hava durumu apisi\hava durumu apisi\bin\Debug\hava durumu apisi.exe.config
+C:\Users\90534\source\repos\hava durumu apisi\hava durumu apisi\bin\Debug\hava durumu apisi.exe
+C:\Users\90534\source\repos\hava durumu apisi\hava durumu apisi\bin\Debug\hava durumu apisi.pdb
+C:\Users\90534\source\repos\hava durumu apisi\hava durumu apisi\obj\Debug\hava durumu apisi.csproj.AssemblyReference.cache
+C:\Users\90534\source\repos\hava durumu apisi\hava durumu apisi\obj\Debug\hava durumu apisi.csproj.SuggestedBindingRedirects.cache
+C:\Users\90534\source\repos\hava durumu apisi\hava durumu apisi\obj\Debug\hava durumu apisi.csproj.CoreCompileInputs.cache
+C:\Users\90534\source\repos\hava durumu apisi\hava durumu apisi\obj\Debug\hava durumu apisi.exe
+C:\Users\90534\source\repos\hava durumu apisi\hava durumu apisi\obj\Debug\hava durumu apisi.pdb
